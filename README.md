@@ -13,4 +13,5 @@ Dijkstra's algorithm is a classic algorithm for finding the shortest paths from 
 
 
 1️⃣ Kosaraju’s algorithm requires two passes of DFS and a graph transpose, while Tarjan’s algorithm works in a single pass.
+
 2️⃣ Dijkstra’s Algorithm assumes all edge weights are non-negative.
