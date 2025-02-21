@@ -79,9 +79,6 @@ class Graph:
                     if node == u:
                         break
                 print(StackScc)
-             
-             
-    
         for u in self.graph:
             if id[u] == -1:
                 dfs(u)
